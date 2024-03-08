@@ -6,7 +6,7 @@
 JS / HTML / CSS / SQL / XML / C# / MONGO /nodejs
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esraashabana)](https://github.com/esraashabana/github-readme-stats)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/esraashabana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/esraa-shabana//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23559933/esraamuh)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraashabana)](https://github.com/anuraghazra/github-readme-stats)
