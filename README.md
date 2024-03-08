@@ -6,24 +6,19 @@ A passionate Full Stack Developer based in Egypt. Currently, I'm honing my skill
 
 ## Skills
 
-- JavaScript (JS)
-- HTML
-- CSS
-- SQL
-- XML
-- C#
-- MongoDB
-- Node.js
+- <span style="color:blue">JavaScript (JS)</span>
+- <span style="color:red">HTML</span>
+- <span style="color:green">CSS</span>
+- <span style="color:orange">SQL</span>
+- <span style="color:purple">XML</span>
+- <span style="color:brown">C#</span>
+- <span style="color:grey">MongoDB</span>
+- <span style="color:teal">Node.js</span>
 
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/esraashabana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/esraa-shabana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/23559933/esraamuh)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraashabana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraashabana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=esraashabana&show_icons=true&count_private=true)
-
-
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=esraashabana&show_icons=true&count_private=true&theme=radical)
