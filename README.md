@@ -19,8 +19,8 @@ A passionate Full Stack Developer based in Egypt. Currently, I'm honing my skill
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/esraashabana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/esraa-shabana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/23559933/esraamuh)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraashabana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraashabana&layout=compact&theme=radical)](https://github.com/esraashabana/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=esraashabana&show_icons=true&count_private=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esraashabana&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraashabana&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraashabana&langs_count=9)
